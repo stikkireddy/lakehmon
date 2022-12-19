@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "9b9ff596f9f5b679c9b347e274deca9c",
-"index.html": "f2e0b31b202cb7e82fdbd7e4ec44f719",
-"/": "f2e0b31b202cb7e82fdbd7e4ec44f719",
-"main.dart.js": "9a4d1c036b77ad9092a7fbbac00bf2fc",
+"index.html": "616d24b62ecd3d944944f0220d494343",
+"/": "616d24b62ecd3d944944f0220d494343",
+"main.dart.js": "2f290c8812aa1f3af3be3a57d8f1df7f",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "26f5af2d93473531f82ef5060f9c6d45",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "1f7cb220b3f5309130bd6d9ad87e0fc0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "4e20cb87b0d43808c49449ffd69b1a74",
-"assets/shaders/ink_sparkle.frag": "4e6effaaabebed5b4cb2904fff148681",
+"assets/shaders/ink_sparkle.frag": "83f150d05ff6b29722214e8ab0b09370",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/anim/83435-happy-halloween-animation-background.json": "64963595d8f39ea72c49d120ad51b034",
 "assets/assets/anim/halloween-pumpkin-candy.json": "b248c01df14d548e1b96f43d773e6024",
@@ -37,7 +37,8 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+".idea/workspace.xml": "d9f3c83992cc48530400fe5c5d6fecb7"
 };
 
 // The application shell files that are downloaded before a service worker can
