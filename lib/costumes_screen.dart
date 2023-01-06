@@ -73,7 +73,7 @@ class _RecommendCostumesState extends State<RecommendCostumes> {
                 _text = textController.text;
               });
               simSearchController.getProxySimSearchResults(
-                  "http://localhost:8000/simsearch?utterance=$_text");
+                  "https://dev.api.tsriharsha.io/lakehmon/simsearch?utterance=$_text");
               Future.delayed(const Duration(seconds: 1));
               simSearchController.simSearchResultAvailable = true;
             },

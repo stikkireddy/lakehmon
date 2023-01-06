@@ -76219,7 +76219,7 @@ A.anz.prototype={
 $0(){var s,r=this.a
 r.aj(new A.anw(r))
 s=r.f
-s.kv("http://localhost:8000/simsearch?utterance="+r.e)
+s.kv("https://dev.api.tsriharsha.io/lakehmon/simsearch?utterance="+r.e)
 A.m0(B.bA,t.z)
 s.dx=!0},
 $S:0}
@@ -76452,7 +76452,7 @@ A.anJ.prototype={
 $0(){var s,r=this.a
 r.aj(new A.anG(r))
 s=r.f
-s.kv("http://localhost:8000/moviesearch?utterance="+r.e)
+s.kv("https://dev.api.tsriharsha.io/lakehmon/moviesearch?utterance="+r.e)
 A.m0(B.bA,t.z)
 s.fx=!0},
 $S:0}

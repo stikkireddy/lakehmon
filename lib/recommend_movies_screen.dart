@@ -73,7 +73,7 @@ class _RecommendMoviesState extends State<RecommendMovies> {
                 _text = textController.text;
               });
               simSearchController.getProxySimSearchResults(
-                  "http://localhost:8000/moviesearch?utterance=$_text");
+                  "https://dev.api.tsriharsha.io/lakehmon/moviesearch?utterance=$_text");
               Future.delayed(const Duration(seconds: 1));
               simSearchController.simSearchResultAvailable = true;
             },
